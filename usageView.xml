@@ -2,4 +2,7 @@
   <component name="UsageFilteringRuleState">
     <option value="com.intellij.usages.impl.rules.ReadAccessFilteringRule" />
   </component>
+  <component name="UsageViewSettings">
+    <option name="IS_PREVIEW_USAGES" value="false" />
+  </component>
 </application>
