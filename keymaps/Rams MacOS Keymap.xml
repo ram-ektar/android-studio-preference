@@ -6,6 +6,8 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CloseGotItTooltip" />
+  <action id="EditorEscape" />
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
@@ -13,6 +15,12 @@
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="FocusEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="escape" />
+  </action>
+  <action id="NavBar-cancel" />
+  <action id="Terminal.SwitchFocusToEditor" />
   <action id="Vcs.UpdateProject" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
